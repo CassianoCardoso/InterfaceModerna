@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/08/03 20:27:14.000.100,=C:\Users\Cassiano\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/12/19 11:30:11.000.970,=C:\Users\Cassiano\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/27 23:12:42.000.255,=C:\Users\Cassiano\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/28 19:13:31.000.063,=C:\Users\Cassiano\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/07/24 12:21:14.000.114,=C:\Users\Cassiano\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/07/24 12:28:43.000.062,E:\DELPHI\Delphi VCL Pascal Modern\U_Principal.pas=C:\Users\Cassiano\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/07/24 12:28:43.000.062,E:\DELPHI\Delphi VCL Pascal Modern\U_Principal.dfm=C:\Users\Cassiano\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/07/24 12:29:00.000.945,E:\DELPHI\Delphi VCL Pascal Modern\InterfaceModerna.dproj=C:\Users\Cassiano\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
